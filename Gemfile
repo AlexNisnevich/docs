@@ -11,6 +11,7 @@ gem 'coderay'
 gem "deckrb", "~> 0.5.2"
 gem "sass"
 gem "redcarpet"
+gem "rubyzip"
 
 group :development do
   gem "wrong", "~> 0.7.0"
